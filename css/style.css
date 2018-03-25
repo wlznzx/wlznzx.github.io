@@ -559,6 +559,9 @@ h5.sub {
     text-align: right;
     padding: 3em 5em 0 0;
 }
+.work-left p{
+    text-align: left;
+}
 .work-right {
     border-left: 1px solid #999;
     padding: 2.5em 0 2em 6em;
